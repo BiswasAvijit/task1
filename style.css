@@ -40,7 +40,7 @@
 .header_4th_btn{
     /* margin-top: 30px; */
     margin: 0 auto;
-
+    border: none;
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
     font-size: 20px;
